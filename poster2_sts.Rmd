@@ -1,6 +1,5 @@
 ---
-title: "Inter-Joint Coordination Variability 
-When Fatiguing with the Use of a Repetitive Sit-To-Stand Task"
+title: "Inter_Joint Coordination Variability When Fatiguing with the Use of a Repetitive Sit_To_Stand Task"
 subtitle: "ASB 2020"
 author: "Teresa Chen"
 institute: ""
