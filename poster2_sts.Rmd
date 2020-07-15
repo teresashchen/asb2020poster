@@ -1,0 +1,65 @@
+---
+title: "Presentation Ninja"
+subtitle: "⚔<br/>with xaringan"
+author: "Yihui Xie"
+institute: "RStudio, Inc."
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [robot-fonts, robot]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%/%total%" 
+      ratio: 16:9
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(tidyverse)
+library(xaringanExtra)
+```
+
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+```{css echo=FALSE}
+.panelset {
+  --panel-tab-color: currentColor;
+  --panel-tab-color-active: #0051BA;
+  --panel-tab-color-hover: #d22;
+  --panel-tabs-border-bottom: #ddd;
+  --panel-tab-inactive-opacity: 0.5;
+  --panel-tab-font-family: Roboto, Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;\
+}
+```
+
+
+.panelset[
+
+.panel[.panel-name[Overview]
+
+![](img/p2_overview.jpg)
+
+]
+
+
+.panel[.panel-name[Methods]
+
+]
+
+.panel[.panel-name[Results]
+
+]
+
+
+.panel[.panel-name[Discussion]
+
+]
+
+
+]
