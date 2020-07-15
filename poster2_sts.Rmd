@@ -1,9 +1,10 @@
 ---
-title: "Presentation Ninja"
-subtitle: "⚔<br/>with xaringan"
-author: "Yihui Xie"
-institute: "RStudio, Inc."
-date: "2016/12/12 (updated: `r Sys.Date()`)"
+title: "Inter-Joint Coordination Variability 
+When Fatiguing with the Use of a Repetitive Sit-To-Stand Task"
+subtitle: "ASB 2020"
+author: "Teresa Chen"
+institute: ""
+date: "2020/07/15 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
