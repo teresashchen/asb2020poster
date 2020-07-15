@@ -62,4 +62,15 @@ xaringanExtra::use_panelset()
 ]
 
 
+.panel[.panel-name[Contact me]
+
+# Find me at...
+
+`r icon::fontawesome("paper-plane", style = "solid")`  teresa.sh.chen@gmail.com  
+`r icon::fontawesome$brands$twitter` ptteresachen 
+`r icon::fontawesome$brands$github` teresashchen
+
+]
+
+
 ]
