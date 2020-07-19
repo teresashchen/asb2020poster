@@ -50,26 +50,24 @@ xaringanExtra::use_panelset()
 
 .panel[.panel-name[Background]
 
-![](img/p2_participants.jpg)
+
 
 ]
 
 .panel[.panel-name[Methods]
-
-![](img/p2_participants.jpg)
 
 ]
 
 
 .panel[.panel-name[Participants]
 
-![](img/p2_participants.jpg)
+
 
 ]
 
 .panel[.panel-name[Results]
 
-![](img/p2_participants.jpg)
+
 
 ]
 
