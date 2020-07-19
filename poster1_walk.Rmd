@@ -1,0 +1,89 @@
+---
+title: "ASB2020: Teresa Szu-Hua Chen"
+subtitle: "ASB 2020"
+author: "Teresa Chen"
+institute: ""
+date: "2020/07/18 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [robot-fonts, robot]
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%/%total%" 
+      ratio: 16:9
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(tidyverse)
+library(xaringanExtra)
+```
+
+```{r xaringan-panelset, echo=FALSE}
+xaringanExtra::use_panelset()
+```
+
+```{css echo=FALSE}
+.panelset {
+  --panel-tab-color: currentColor;
+  --panel-tab-color-active: #0051BA;
+  --panel-tab-color-hover: #d22;
+  --panel-tabs-border-bottom: #ddd;
+  --panel-tab-inactive-opacity: 0.5;
+  --panel-tab-font-family: Roboto, Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;\
+}
+```
+
+
+.panelset[
+
+
+.panel[.panel-name[Summary]
+
+
+
+]
+
+.panel[.panel-name[Background]
+
+
+
+]
+
+.panel[.panel-name[Methods]
+
+
+
+]
+
+
+.panel[.panel-name[Participants]
+
+
+
+]
+
+.panel[.panel-name[Results & Discussion]
+
+
+
+]
+
+
+.panel[.panel-name[Contact]
+
+# Find me at...
+
+`r icon::fontawesome("paper-plane", style = "solid")`  teresa.sh.chen@gmail.com  
+`r icon::fontawesome$brands$twitter` ptteresachen 
+`r icon::fontawesome$brands$github` teresashchen
+
+]
+
+
+]
+
