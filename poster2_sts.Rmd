@@ -67,7 +67,7 @@ xaringanExtra::use_panelset()
 
 ]
 
-.panel[.panel-name[Results & Discussion]
+.panel[.panel-name[Results]
 
 ![](img/p2_results.jpg)
 
