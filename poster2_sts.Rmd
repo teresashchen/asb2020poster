@@ -48,22 +48,33 @@ xaringanExtra::use_panelset()
 
 ]
 
+.panel[.panel-name[Background]
+
+![](img/p2_background.jpg)
+
+]
 
 .panel[.panel-name[Methods]
 
-]
-
-.panel[.panel-name[Results]
+![](img/p2_methods.jpg)
 
 ]
 
 
-.panel[.panel-name[Discussion]
+.panel[.panel-name[Participants]
+
+![](img/p2_participants.jpg)
+
+]
+
+.panel[.panel-name[Results & Discussion]
+
+![](img/p2_results.jpg)
 
 ]
 
 
-.panel[.panel-name[Contact me]
+.panel[.panel-name[Contact]
 
 # Find me at...
 
