@@ -41,7 +41,8 @@ xaringanExtra::use_panelset()
 
 .panelset[
 
-.panel[.panel-name[Overview]
+
+.panel[.panel-name[Summary]
 
 ![](img/p2_overview.jpg)
 
