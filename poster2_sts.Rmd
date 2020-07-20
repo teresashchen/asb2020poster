@@ -57,7 +57,7 @@ xaringanExtra::use_panelset()
 
 .panel[.panel-name[Methods]
 
-![](img/p2_methods.JPG
+![](img/p2_methods.JPG)
 
 ]
 
