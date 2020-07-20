@@ -44,32 +44,29 @@ xaringanExtra::use_panelset()
 
 .panel[.panel-name[Summary]
 
-![](img/p2_participants.jpg)
+![](img/p1_summary.JPG)
 
 ]
 
 .panel[.panel-name[Background]
 
-
+![](img/p1_background.JPG)
 
 ]
 
 .panel[.panel-name[Methods]
 
-]
-
-
-.panel[.panel-name[Participants]
-
-
+![](img/p1_methods.JPG)
 
 ]
 
-.panel[.panel-name[Results]
 
+.panel[.panel-name[Discussion]
 
+![](img/p1_discussion.JPG)
 
 ]
+
 
 
 .panel[.panel-name[Contact]
